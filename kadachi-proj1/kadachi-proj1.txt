@@ -1,0 +1,47 @@
+Script started on Wed 12 Oct 2016 11:01:51 PM PDT
+]0;knadachi@abbott:~/CS256/kadachi-proj1[01;32mknadachi@abbott[01;34m ~/CS256/kadachi-proj1 $[00m g++ kadachi-proj1.cpp
+]0;knadachi@abbott:~/CS256/kadachi-proj1[01;32mknadachi@abbott[01;34m ~/CS256/kadachi-proj1 $[00m ./a.out
+K. Adachi's Quadratic Equation
+
+Please enter values for a, b, and c: 1 2 -3
+1 x^2 + 2 x + -3 = 0
+x1 = 1
+x2 = -3
+]0;knadachi@abbott:~/CS256/kadachi-proj1[01;32mknadachi@abbott[01;34m ~/CS256/kadachi-proj1 $[00m ./a.out
+K. Adachi's Quadratic Equation
+
+Please enter values for a, b, and c: 1 -2 -4
+1 x^2 + -2 x + -4 = 0
+x1 = 3.23607
+x2 = -1.23607
+]0;knadachi@abbott:~/CS256/kadachi-proj1[01;32mknadachi@abbott[01;34m ~/CS256/kadachi-proj1 $[00m ./a.out
+K. Adachi's Quadratic Equation
+
+Please enter values for a, b, and c: 5 6 1
+5 x^2 + 6 x + 1 = 0
+x1 = -0.2
+x2 = -1
+]0;knadachi@abbott:~/CS256/kadachi-proj1[01;32mknadachi@abbott[01;34m ~/CS256/kadachi-proj1 $[00m ./a.out
+K. Adachi's Quadratic Equation
+
+Please enter values for a, b, and c: 4 5 1
+4 x^2 + 5 x + 1 = 0
+x1 = -0.25
+x2 = -1
+]0;knadachi@abbott:~/CS256/kadachi-proj1[01;32mknadachi@abbott[01;34m ~/CS256/kadachi-proj1 $[00m ./a.out
+K. Adachi's Quadratic Equation
+
+Please enter values for a, b, and c: 1 1 -4
+1 x^2 + 1 x + -4 = 0
+x1 = 1.56155
+x2 = -2.56155
+]0;knadachi@abbott:~/CS256/kadachi-proj1[01;32mknadachi@abbott[01;34m ~/CS256/kadachi-proj1 $[00m ./a.out
+K. Adachi's Quadratic Equation
+
+Please enter values for a, b, and c: 1 2 3
+1 x^2 + 2 x + 3 = 0
+Imaginary Roots
+]0;knadachi@abbott:~/CS256/kadachi-proj1[01;32mknadachi@abbott[01;34m ~/CS256/kadachi-proj1 $[00m exit
+exit
+
+Script done on Wed 12 Oct 2016 11:02:46 PM PDT

@@ -1,0 +1,88 @@
+Script started on Wed 26 Oct 2016 01:09:23 PM PDT
+]0;knadachi@costello:~/CS256/kadachi-proj2[01;32mknadachi@costello[01;34m ~/CS256/kadachi-proj2 $[00m ./a.out
+K. Adachi's Guess-my-Number
+
+
+A secret number between 1-100 generated...
+
+
+Please enter your guess? 50
+Guess is low...
+Please enter your guess? 70
+Guess is high...
+Please enter your guess? 60
+Guess is high...
+Please enter your guess? 55
+Guess is low...
+Please enter your guess? 57
+Correct in 5 guesses.
+]0;knadachi@costello:~/CS256/kadachi-proj2[01;32mknadachi@costello[01;34m ~/CS256/kadachi-proj2 $[00m ./a.out
+K. Adachi's Guess-my-Number
+
+
+A secret number between 1-100 generated...
+
+
+Please enter your guess? 101
+Invalid input.
+Please enter your guess? -1
+Invalid input.
+Please enter your guess? 300
+Invalid input.
+Please enter your guess? 50
+Guess is high...
+Please enter your guess? 30
+Guess is high...
+Please enter your guess? 10
+Guess is high...
+Please enter your guess? 5
+Guess is high...
+Please enter your guess? 3
+Guess is high...
+Please enter your guess? 2
+Correct in 6 guesses.
+]0;knadachi@costello:~/CS256/kadachi-proj2[01;32mknadachi@costello[01;34m ~/CS256/kadachi-proj2 $[00m ./a.out
+K. Adachi's Guess-my-Number
+
+
+A secret number between 1-100 generated...
+
+
+Please enter your guess? 50
+Guess is high...
+Please enter your guess? 25
+Guess is high...
+Please enter your guess? 20
+Guess is high...
+Please enter your guess? 0
+The secret number is 6.
+]0;knadachi@costello:~/CS256/kadachi-proj2[01;32mknadachi@costello[01;34m ~/CS256/kadachi-proj2 $[00m ./a.out
+K. Adachi's Guess-my-Number
+
+
+A secret number between 1-100 generated...
+
+
+Please enter your guess? 300
+Invalid input.
+Please enter your guess? 1
+Guess is low...
+Please enter your guess? 2
+Guess is low...
+Please enter your guess? 10
+Guess is low...
+Please enter your guess? 6
+Guess is low...
+Please enter your guess? 5
+Guess is low...
+Please enter your guess? 3
+Guess is low...
+Please enter your guess? 7
+Guess is low...
+Please enter your guess? 8
+Guess is low...
+Too many guesses, the secret number is 45.
+]0;knadachi@costello:~/CS256/kadachi-proj2[01;32mknadachi@costello[01;34m ~/CS256/kadachi-proj2 $[00m exit
+exit
+
+Script done on Wed 26 Oct 2016 01:11:04 PM PDT

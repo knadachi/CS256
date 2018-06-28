@@ -1,0 +1,47 @@
+Script started on Mon 14 Nov 2016 11:38:34 AM PST
+]0;knadachi@abbott:~/CS256/kadachi-proj3[01;32mknadachi@abbott[01;34m ~/CS256/kadachi-proj3 $[00m ./a.out
+K. Adachi's A-Mazing!
+
+Enter the maze file name? maze1.txt
+
+Rows: 8
+Columns: 18
+
+XXXXXXXXXXXXXXXXXX
+XS X          X FX
+X  X      XXXXX  X
+X  X  X   X   X  X
+X  X  X   X   X  X
+X     X          X
+X     X          X
+XXXXXXXXXXXXXXXXXX
+
+Path: 28
+XXXXXXXXXXXXXXXXXX
+XS.X          X FX
+X .X .....XXXXX .X
+X .X .X  .X   X .X
+X .X .X  .X   X .X
+X ....X  ........X
+X     X          X
+XXXXXXXXXXXXXXXXXX
+]0;knadachi@abbott:~/CS256/kadachi-proj3[01;32mknadachi@abbott[01;34m ~/CS256/kadachi-proj3 $[00m ./a.out
+K. Adachi's A-Mazing!
+
+Enter the maze file name? maze2.txt
+
+Rows: 6
+Columns: 20
+
+XXXXXXXXXXXXXXXXXXXX
+X S    XXXX   X F  X
+X    XXXXXX   XXXXXX
+X    XX            X
+X            XXX   X
+XXXXXXXXXXXXXXXXXXXX
+
+No Solution.
+]0;knadachi@abbott:~/CS256/kadachi-proj3[01;32mknadachi@abbott[01;34m ~/CS256/kadachi-proj3 $[00m exit
+exit
+
+Script done on Mon 14 Nov 2016 11:38:44 AM PST
